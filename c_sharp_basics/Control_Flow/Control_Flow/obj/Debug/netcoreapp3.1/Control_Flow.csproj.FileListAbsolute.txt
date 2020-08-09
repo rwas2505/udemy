@@ -1,0 +1,12 @@
+C:\Users\rwaszak\source\repos\Control_Flow\Control_Flow\bin\Debug\netcoreapp3.1\Control_Flow.exe
+C:\Users\rwaszak\source\repos\Control_Flow\Control_Flow\bin\Debug\netcoreapp3.1\Control_Flow.deps.json
+C:\Users\rwaszak\source\repos\Control_Flow\Control_Flow\bin\Debug\netcoreapp3.1\Control_Flow.runtimeconfig.json
+C:\Users\rwaszak\source\repos\Control_Flow\Control_Flow\bin\Debug\netcoreapp3.1\Control_Flow.runtimeconfig.dev.json
+C:\Users\rwaszak\source\repos\Control_Flow\Control_Flow\bin\Debug\netcoreapp3.1\Control_Flow.dll
+C:\Users\rwaszak\source\repos\Control_Flow\Control_Flow\bin\Debug\netcoreapp3.1\Control_Flow.pdb
+C:\Users\rwaszak\source\repos\Control_Flow\Control_Flow\obj\Debug\netcoreapp3.1\Control_Flow.AssemblyInfoInputs.cache
+C:\Users\rwaszak\source\repos\Control_Flow\Control_Flow\obj\Debug\netcoreapp3.1\Control_Flow.AssemblyInfo.cs
+C:\Users\rwaszak\source\repos\Control_Flow\Control_Flow\obj\Debug\netcoreapp3.1\Control_Flow.csproj.CoreCompileInputs.cache
+C:\Users\rwaszak\source\repos\Control_Flow\Control_Flow\obj\Debug\netcoreapp3.1\Control_Flow.dll
+C:\Users\rwaszak\source\repos\Control_Flow\Control_Flow\obj\Debug\netcoreapp3.1\Control_Flow.pdb
+C:\Users\rwaszak\source\repos\Control_Flow\Control_Flow\obj\Debug\netcoreapp3.1\Control_Flow.genruntimeconfig.cache
