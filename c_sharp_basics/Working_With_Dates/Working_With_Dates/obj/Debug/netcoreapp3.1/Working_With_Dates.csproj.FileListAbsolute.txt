@@ -1,0 +1,13 @@
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Dates\Working_With_Dates\bin\Debug\netcoreapp3.1\Working_With_Dates.exe
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Dates\Working_With_Dates\bin\Debug\netcoreapp3.1\Working_With_Dates.deps.json
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Dates\Working_With_Dates\bin\Debug\netcoreapp3.1\Working_With_Dates.runtimeconfig.json
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Dates\Working_With_Dates\bin\Debug\netcoreapp3.1\Working_With_Dates.runtimeconfig.dev.json
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Dates\Working_With_Dates\bin\Debug\netcoreapp3.1\Working_With_Dates.dll
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Dates\Working_With_Dates\bin\Debug\netcoreapp3.1\Working_With_Dates.pdb
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Dates\Working_With_Dates\obj\Debug\netcoreapp3.1\Working_With_Dates.csprojAssemblyReference.cache
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Dates\Working_With_Dates\obj\Debug\netcoreapp3.1\Working_With_Dates.AssemblyInfoInputs.cache
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Dates\Working_With_Dates\obj\Debug\netcoreapp3.1\Working_With_Dates.AssemblyInfo.cs
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Dates\Working_With_Dates\obj\Debug\netcoreapp3.1\Working_With_Dates.csproj.CoreCompileInputs.cache
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Dates\Working_With_Dates\obj\Debug\netcoreapp3.1\Working_With_Dates.dll
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Dates\Working_With_Dates\obj\Debug\netcoreapp3.1\Working_With_Dates.pdb
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Dates\Working_With_Dates\obj\Debug\netcoreapp3.1\Working_With_Dates.genruntimeconfig.cache
