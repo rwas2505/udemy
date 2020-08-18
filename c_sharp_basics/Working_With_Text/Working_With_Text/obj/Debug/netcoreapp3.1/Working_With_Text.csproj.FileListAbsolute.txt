@@ -1,0 +1,13 @@
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Text\Working_With_Text\bin\Debug\netcoreapp3.1\Working_With_Text.exe
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Text\Working_With_Text\bin\Debug\netcoreapp3.1\Working_With_Text.deps.json
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Text\Working_With_Text\bin\Debug\netcoreapp3.1\Working_With_Text.runtimeconfig.json
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Text\Working_With_Text\bin\Debug\netcoreapp3.1\Working_With_Text.runtimeconfig.dev.json
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Text\Working_With_Text\bin\Debug\netcoreapp3.1\Working_With_Text.dll
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Text\Working_With_Text\bin\Debug\netcoreapp3.1\Working_With_Text.pdb
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Text\Working_With_Text\obj\Debug\netcoreapp3.1\Working_With_Text.csprojAssemblyReference.cache
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Text\Working_With_Text\obj\Debug\netcoreapp3.1\Working_With_Text.AssemblyInfoInputs.cache
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Text\Working_With_Text\obj\Debug\netcoreapp3.1\Working_With_Text.AssemblyInfo.cs
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Text\Working_With_Text\obj\Debug\netcoreapp3.1\Working_With_Text.csproj.CoreCompileInputs.cache
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Text\Working_With_Text\obj\Debug\netcoreapp3.1\Working_With_Text.dll
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Text\Working_With_Text\obj\Debug\netcoreapp3.1\Working_With_Text.pdb
+C:\Users\rwaszak\Desktop\Code\udemy\c_sharp_basics\Working_With_Text\Working_With_Text\obj\Debug\netcoreapp3.1\Working_With_Text.genruntimeconfig.cache
